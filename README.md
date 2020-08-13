@@ -33,7 +33,7 @@ This software is built as an addition to the tagger Pie by Enrique Manjavacas (@
 ## Demo
 ![Pandora Post-Correction Editor](./demo.gif)
 
-## Install
+## བསྒྲིག་འགོད། Install
 
 Start by cloning the repository, and moving inside the created folder
 
@@ -49,10 +49,16 @@ pip install -r requirements.txt
 python manage.py db-create
 ```
 
-## Run
+## བཀོལ་སྤྱོད། Run
 
 ```bash
 python manage.py run
+```
+
+Login:
+```
+email: ppa-admin@ppa.fr
+password: admin
 ```
 
 ## How to contribute
